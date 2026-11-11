@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://luizaluguelmotos.com.br/sitemap.xml
+Sitemap: https://luizalugueldemotos.com.br/sitemap.xml
